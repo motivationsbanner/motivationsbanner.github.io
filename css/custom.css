@@ -1,9 +1,23 @@
 /* Shared
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.button {
-  border-radius: 100px;
+.center {
+  text-align: center;
 }
 
+.container {
+	max-width: 800px;
+}
+
+.margin-bottom-2rem {
+	margin-bottom: 2rem;
+}
+
+.title {
+	font-size: 4.2rem;
+	font-family: motivationsbanner;
+	letter-spacing: 1rem;
+	margin-top: 4rem;
+}
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
