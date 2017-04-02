@@ -134,7 +134,6 @@
     margin-right: auto;
   }
   .phone {
-    top: -14rem;
     right: 5rem;
     max-height: 510px;
   }
@@ -159,11 +158,9 @@
     font-size: 3.0rem;
   }
   .phone {
-    top: -16rem;
     max-height: 615px;
   }
   .phone + .phone {
-    top: -14rem;
     max-height: 570px;
   }
 }
